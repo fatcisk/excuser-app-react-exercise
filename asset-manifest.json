@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excuser-app-react-excercise/static/css/main.a373307e.css",
+    "main.js": "/excuser-app-react-excercise/static/js/main.e0d37346.js",
+    "static/js/787.0493ddf1.chunk.js": "/excuser-app-react-excercise/static/js/787.0493ddf1.chunk.js",
+    "index.html": "/excuser-app-react-excercise/index.html",
+    "main.a373307e.css.map": "/excuser-app-react-excercise/static/css/main.a373307e.css.map",
+    "main.e0d37346.js.map": "/excuser-app-react-excercise/static/js/main.e0d37346.js.map",
+    "787.0493ddf1.chunk.js.map": "/excuser-app-react-excercise/static/js/787.0493ddf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a373307e.css",
+    "static/js/main.e0d37346.js"
+  ]
+}
