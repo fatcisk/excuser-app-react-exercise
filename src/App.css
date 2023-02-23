@@ -8,10 +8,11 @@
 }
 
 .App {
-  height: 100vh;
+  min-height: 100vh;
   background-color: #fafafa;
   text-align: center;
   padding-top: 100px;
+  position: relative;
 }
 
 .description {
@@ -115,8 +116,9 @@ button:active {
 .credit {
   left: 0;
   right: 0;
-  position: absolute;
-  bottom: 50px;
+  position: relative;
+  bottom: 0;
+  margin-top: 100px;
 }
 
 .credit a {
@@ -125,8 +127,7 @@ button:active {
 
 @media only screen and (max-width: 850px) {
   .App {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding: 50px 10px;
   }
   .radio-buttons {
     width: auto;
