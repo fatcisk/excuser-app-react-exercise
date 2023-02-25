@@ -1,6 +1,6 @@
 
 # PREVIEW OF THE PROJECT
-![alt text](https://github.com/uzayapiu/react-form-validation-exercise/blob/main/Screenshot%202023-02-25%20at%2011.43.07.png?raw=true)
+![alt text](https://github.com/uzayapiu/excuser-app-react-exercise/blob/master/Screenshot%202023-02-22%20at%2022.27.11.png?raw=true)
 
 # Getting Started with Create React App
 
